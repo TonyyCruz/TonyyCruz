@@ -24,7 +24,7 @@
 
 👨🏽‍🎓 Estou atualmente estudando na **Trybe.**
 
-👨‍💻 Meu [Portfólio](tonyycruz.github.io)
+👨‍💻 Meu [Portfólio](https://tonyycruz.github.io/)
 
 📫Linkedin **https://www.linkedin.com/in/anthony-cruz-dev/**
 

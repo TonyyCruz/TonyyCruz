@@ -29,6 +29,7 @@
   📫Linkedin **https://www.linkedin.com/in/anthony-cruz-dev/**
 
   📫 Contato **anthony-cruz@outlook.com**
+  
  
 
 <h3 align="left">Connect with me:</h3>

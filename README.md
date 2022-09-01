@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/tonyycruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonyycruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyycruz&layout=compact&langs_count=7&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonyycruz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyycruz&layout=compact&langs_count=7&theme=blue-green">
 </div>
 
 <br>
@@ -18,22 +18,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
 </div><br>
 
-  👨🏽‍🎓 Estou atualmente estudando Back-end na **Trybe**.
-  
-  👨‍💻 Meu [Portfólio](https://tonyycruz.github.io/)
+## Contact and connect:
 
-  📫Linkedin **https://www.linkedin.com/in/anthony-cruz-dev/**
-
-  📫 Contato **anthony-cruz@outlook.com**
-  
- 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anthony cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony cruz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anthony-cruz-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony cruz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:294052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:294052" height="30" width="40" /></a>
 </p>
+
+  <a href="http://tonyycruz.github.io">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-https%3A%2F%2Ftonyycruz.github.io%2F-blue" alt="css3" width="280" height="20">
+  </a>

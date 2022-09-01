@@ -35,6 +35,6 @@
 <a href="https://stackoverflow.com/users/user:294052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:294052" height="30" width="40" /></a>
 </p>
 
-  <a href="http://tonyycruz.github.io">
+  <a href="http://tonyycruz.github.io" target="_blank" rel="noreferrer noopener">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-https%3A%2F%2Ftonyycruz.github.io%2F-blue" alt="css3" width="280" height="20">
   </a>

@@ -12,6 +12,14 @@
 <h2 align="center">🛠️ Tech skills</h2>
 
 <div style="display: inline_block" align="center">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40">
+  </a>
+  
   <a href="https://sequelize.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="chaijs" width="40" height="40">
   </a> 
@@ -26,10 +34,6 @@
     
   <a href="https://www.chaijs.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chaijs" width="40" height="40">
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
   </a>
   
   <a href="https://www.postman.com/product/what-is-postman/" target="_blank">

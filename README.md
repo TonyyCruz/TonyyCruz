@@ -24,6 +24,10 @@
     <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="chaijs" width="40" height="40">
   </a> 
   
+  <a href="https://www.mongodb.com/tools/mongoose" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" alt="mongoose" width="40" height="40">
+  </a>
+  
   <a href="https://expressjs.com/pt-br/" target="_blank">
     <img src="https://img.shields.io/badge/-Express-blue" alt="express" width="40"       height="40">
   </a>

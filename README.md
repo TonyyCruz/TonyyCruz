@@ -72,10 +72,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
   </a>
   
-  [learning]: #
-  (<a href="https://pt.wikipedia.org/wiki/Python" target="_blank">
+  <a href="https://pt.wikipedia.org/wiki/Python" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-  </a>)
+  </a>
   
   <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">

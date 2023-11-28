@@ -68,10 +68,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
   </a>
   
-  <a href="https://docs.insomnia.rest/insomnia/get-started" target="_blank">
-    <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="40" height="40">
-  </a>
-  
   <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="getpostman" width="40" height="40">
   </a>

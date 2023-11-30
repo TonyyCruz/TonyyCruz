@@ -1,14 +1,57 @@
-<h1 align="center">Oi, eu sou Anthony Cruz</h1>
-<h3 align="center">Desenvolvedor web.</h3>
-
-<div align="center">
-  <a href="https://github.com/tonyycruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonyycruz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=stars">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyycruz&layout=compact&langs_count=7&theme=blue-green">
-</div>
-
-<br>
+<img align="right" alt="Profile gif" height="250em" src="https://raw.githubusercontent.com/TonyyCruz/TonyyCruz/main/profile_gif.gif">
   
+<h2 align="center">Oi, eu sou Anthony Cruz</h2>
+
+<p align="left">
+Desenvolvedor web full-stack de São Paulo-SP.<br>
+Atuo na área de desenvolvimento desde 2022 sempre buscando novos desafios e aprendizado. Melhorando a cada dia em busca de códigos mais limpos e organizados.  
+Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opinar.
+</p>
+  
+
+#### Contato:
+
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-003544?style=for-the-badge&logo=linkedin&logoColor=92cbdf&color:FFF)](https://www.linkedin.com/in/anthony-cruz-dev/)
+ [![Email](https://img.shields.io/badge/-Email-003544?style=for-the-badge&logo=gmail&logoColor=92cbdf&color:FFF)](mailto:tony_esqueloto@hotmail.com)
+
+<span align="center">
+  <picture>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=tonyycruz&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=stars&bg_color=003544&title_color=92cbdf&text_color=FFF&border_radius=20&border_color=92cbdf&icon_color=92cbdf">
+  </picture>
+  <picture>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyycruz&hide_title=true&layout=compact&langs_count=7&theme=blue-green&bg_color=003544&title_color=92cbdf&text_color=FFF&border_radius=20&border_color=92cbdf&icon_color=92cbdf">
+  </picture>
+</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="center">🛠️ Tech skills</h2>
 
 <div style="display: inline_block" align="center">
@@ -98,15 +141,8 @@
   
 </div><br>
 
-## Contact and connect:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/anthony-cruz-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony cruz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20094818/anthony-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-  
-<a href = "mailto:tony_esqueloto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-
+<!--
   <a href="http://tonyycruz.github.io" target="_blank" rel="noreferrer noopener">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-https%3A%2F%2Ftonyycruz.github.io%2F-blue" alt="portfolio" width="280" height="20">
   </a>
+  -->

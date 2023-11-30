@@ -16,10 +16,10 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
 
 <span align="center">
   <picture>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tonyycruz&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=stars&bg_color=003544&title_color=92cbdf&text_color=FFF&border_radius=20&border_color=92cbdf&icon_color=92cbdf">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tonyycruz&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=stars&bg_color=003544&title_color=92cbdf&text_color=FFF&border_radius=20&border_color=92cbdf&icon_color=92cbdf">
   </picture>
   <picture>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyycruz&hide_title=true&layout=compact&langs_count=7&theme=blue-green&bg_color=003544&title_color=92cbdf&text_color=FFF&border_radius=20&border_color=92cbdf&icon_color=92cbdf">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyycruz&hide_title=true&layout=compact&langs_count=7&theme=blue-green&bg_color=003544&title_color=92cbdf&text_color=FFF&border_radius=20&border_color=92cbdf&icon_color=92cbdf">
   </picture>
 </span>
 

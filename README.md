@@ -59,7 +59,7 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
 </table>
 
 <details align="center">
-    <summary>Outras abilidades</summary>
+    <summary>Outras habilidades</summary>
   <div align="center">
     <a href="https://dev.mysql.com/doc/" target="_blank">
       <img src="https://img.shields.io/badge/MySql-003544?style=for-the-badge&logo=MySql" alt="MySql badge">

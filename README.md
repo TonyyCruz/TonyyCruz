@@ -23,7 +23,9 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
   </picture>
 </span>
 
-<table align="center" width=100vw>
+<br>
+
+<table align="center">
   <tr>
     <th>Linguagens</th>
     <th>Frameworks</th>

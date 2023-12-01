@@ -22,9 +22,8 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyycruz&hide_title=true&layout=compact&langs_count=7&theme=blue-green&bg_color=003544&title_color=92cbdf&text_color=FFF&border_radius=20&border_color=92cbdf&icon_color=92cbdf">
   </picture>
 </span>
-
 <br>
-
+<br>
 <table align="center">
   <tr>
     <th>Linguagens</th>

@@ -1,4 +1,4 @@
-<img align="right" alt="Profile gif" height="250em" src="https://raw.githubusercontent.com/TonyyCruz/TonyyCruz/main/profile_gif.gif">
+<picture><img align="right" alt="Profile gif" height="250em" src="https://raw.githubusercontent.com/TonyyCruz/TonyyCruz/main/profile_gif.gif"></picture>
   
 <h2 align="center">Oi, eu sou Anthony Cruz</h2>
 

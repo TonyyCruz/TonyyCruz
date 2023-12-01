@@ -60,51 +60,47 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
 
 <details align="center">
     <summary>Outras abilidades</summary>
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://dev.mysql.com/doc/" target="_blank">
-          <img src="https://img.shields.io/badge/MySql-003544?style=for-the-badge&logo=MySql" alt="MySql badge">
-        </a>
-        <a href="https://www.mongodb.com/docs/" target="_blank">
-          <img src="https://img.shields.io/badge/MongoDB-003544?style=for-the-badge&logo=MongoDB" alt="MongoDB badge">
-        </a>
-        <a href="https://git-scm.com/docs/git/pt_BR" target="_blank">
-          <img src="https://img.shields.io/badge/Git-003544?style=for-the-badge&logo=Git" alt="Git badge">
-        </a>
-        <a href="https://docs.docker.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Docker-003544?style=for-the-badge&logo=Docker" alt="Docker badge">
-        </a>
-        <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
-          <img src="https://img.shields.io/badge/HTML-003544?style=for-the-badge&logo=HTML5" alt="HTML badge">
-        </a>
-        <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
-          <img src="https://img.shields.io/badge/CSS-003544?style=for-the-badge&logo=CSS3" alt="CSS badge">
-        </a>
-        <a href="https://tsdoc.org/" target="_blank">
-          <img src="https://img.shields.io/badge/TypeScript-003544?style=for-the-badge&logo=TypeScript" alt="TypeScript badge">
-        </a>
-        <a href="https://docs.kernel.org/" target="_blank">
-          <img src="https://img.shields.io/badge/Linux-003544?style=for-the-badge&logo=Linux" alt="Linux badge">
-        </a>
-        <a href="https://sequelize.org/docs/v6/" target="_blank">
-          <img src="https://img.shields.io/badge/Sequelize-003544?style=for-the-badge&logo=Sequelize" alt="Sequelize badge">
-        </a>
-        <a href="https://www.selenium.dev/documentation/" target="_blank">
-          <img src="https://img.shields.io/badge/Selenium-003544?style=for-the-badge&logo=Selenium" alt="Selenium badge">
-        </a>
-        <a href="https://mochajs.org/api/mocha.js.html" target="_blank">
-          <img src="https://img.shields.io/badge/Mocha-003544?style=for-the-badge&logo=Mocha" alt="Mocha badge">
-        </a>
-        <a href="https://chai.ml/docs/" target="_blank">
-          <img src="https://img.shields.io/badge/Chai-003544?style=for-the-badge&logo=Chai" alt="Chai badge">
-        </a>
-        <a href="https://jestjs.io/docs/getting-started" target="_blank">
-          <img src="https://img.shields.io/badge/Jest-003544?style=for-the-badge&logo=Jest" alt="Jest badge">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <a href="https://dev.mysql.com/doc/" target="_blank">
+      <img src="https://img.shields.io/badge/MySql-003544?style=for-the-badge&logo=MySql" alt="MySql badge">
+    </a>
+    <a href="https://www.mongodb.com/docs/" target="_blank">
+      <img src="https://img.shields.io/badge/MongoDB-003544?style=for-the-badge&logo=MongoDB" alt="MongoDB badge">
+    </a>
+    <a href="https://git-scm.com/docs/git/pt_BR" target="_blank">
+      <img src="https://img.shields.io/badge/Git-003544?style=for-the-badge&logo=Git" alt="Git badge">
+    </a>
+    <a href="https://docs.docker.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-003544?style=for-the-badge&logo=Docker" alt="Docker badge">
+    </a>
+    <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
+      <img src="https://img.shields.io/badge/HTML-003544?style=for-the-badge&logo=HTML5" alt="HTML badge">
+    </a>
+    <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
+      <img src="https://img.shields.io/badge/CSS-003544?style=for-the-badge&logo=CSS3" alt="CSS badge">
+    </a>
+    <a href="https://tsdoc.org/" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-003544?style=for-the-badge&logo=TypeScript" alt="TypeScript badge">
+    </a>
+    <a href="https://docs.kernel.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Linux-003544?style=for-the-badge&logo=Linux" alt="Linux badge">
+    </a>
+    <a href="https://sequelize.org/docs/v6/" target="_blank">
+      <img src="https://img.shields.io/badge/Sequelize-003544?style=for-the-badge&logo=Sequelize" alt="Sequelize badge">
+    </a>
+    <a href="https://www.selenium.dev/documentation/" target="_blank">
+      <img src="https://img.shields.io/badge/Selenium-003544?style=for-the-badge&logo=Selenium" alt="Selenium badge">
+    </a>
+    <a href="https://mochajs.org/api/mocha.js.html" target="_blank">
+      <img src="https://img.shields.io/badge/Mocha-003544?style=for-the-badge&logo=Mocha" alt="Mocha badge">
+    </a>
+    <a href="https://chai.ml/docs/" target="_blank">
+      <img src="https://img.shields.io/badge/Chai-003544?style=for-the-badge&logo=Chai" alt="Chai badge">
+    </a>
+    <a href="https://jestjs.io/docs/getting-started" target="_blank">
+      <img src="https://img.shields.io/badge/Jest-003544?style=for-the-badge&logo=Jest" alt="Jest badge">
+    </a>
+  </div>
 </details>
 
 

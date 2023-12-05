@@ -24,6 +24,7 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
 </span>
 <br>
 <br>
+
 <table align="center">
   <tr>
     <th>Linguagens</th>
@@ -101,7 +102,10 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
   </a>
 </div>
 
-
+<div align="center">
+  <h4>Learning: <a href="https://kotlinlang.org/docs/home.html" target="_blank">Kotlin</a></h4>
+  <picture><img alt="Profile gif" height="60px" src="https://github.com/TonyyCruz/TonyyCruz/blob/main/learning_gif.gif"></picture>
+</div>
 <!--
   <a href="http://tonyycruz.github.io" target="_blank" rel="noreferrer noopener">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-https%3A%2F%2Ftonyycruz.github.io%2F-blue" alt="portfolio" width="280" height="20">

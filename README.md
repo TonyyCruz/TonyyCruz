@@ -43,8 +43,8 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
       </a>
     </td>
     <td>
-      <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank">
-        <img src="https://img.shields.io/badge/SpringBoot-003544?style=for-the-badge&logo=springboot" alt="Spring boot badge">
+      <a href="https://spring.io/projects/spring-framework/" target="_blank">
+        <img src="https://img.shields.io/badge/Spring-003544?style=for-the-badge&logo=spring" alt="Spring badge">
       </a>
       <a href="https://docs.djangoproject.com/en/4.2/" target="_blank">
         <img src="https://img.shields.io/badge/Django-003544?style=for-the-badge&logo=Django" alt="Django badge">

@@ -35,6 +35,9 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
       <a href="https://docs.oracle.com/en/java/" target="_blank">
         <img src="https://img.shields.io/badge/Java-003544?style=for-the-badge&logo=openjdk" alt="Java badge">
       </a>
+      <a href="https://kotlinlang.org/docs/home.html" target="_blank">
+        <img src="https://img.shields.io/badge/Kotlin-003544?style=for-the-badge&logo=Kotlin" alt="Javascript badge">
+      </a>
       <a href="https://docs.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-003544?style=for-the-badge&logo=python" alt="Python badge">
       </a>
@@ -102,11 +105,13 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
   </a>
 </div>
 
+<!--
 <div align="center">
   <h4>Learning: <a href="https://kotlinlang.org/docs/home.html" target="_blank">Kotlin</a></h4>
   <picture><img alt="Profile gif" height="60px" src="https://github.com/TonyyCruz/TonyyCruz/blob/main/learning_gif.gif"></picture>
 </div>
-<!--
+
+
   <a href="http://tonyycruz.github.io" target="_blank" rel="noreferrer noopener">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-https%3A%2F%2Ftonyycruz.github.io%2F-blue" alt="portfolio" width="280" height="20">
   </a>

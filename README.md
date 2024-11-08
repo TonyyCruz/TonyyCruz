@@ -116,3 +116,4 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-https%3A%2F%2Ftonyycruz.github.io%2F-blue" alt="portfolio" width="280" height="20">
   </a>
   -->
+

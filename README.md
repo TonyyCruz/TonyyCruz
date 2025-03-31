@@ -106,7 +106,6 @@ Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opi
 </div>
 
 
-
 <!--
 <div align="center">
   <h4>Learning: <a href="https://kotlinlang.org/docs/home.html" target="_blank">Kotlin</a></h4>

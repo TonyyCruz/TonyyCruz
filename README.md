@@ -1,4 +1,4 @@
-<h2 align="center">Oi, eu sou Anthony Cruz</h2>
+<h2 align="left">Oi, eu sou Anthony Cruz</h2>
 
 <picture><img align="right" alt="Profile gif" height="250em" src="https://raw.githubusercontent.com/TonyyCruz/TonyyCruz/main/my_profile_gif.gif"></picture>
   

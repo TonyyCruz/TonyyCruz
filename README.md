@@ -1,11 +1,15 @@
-<picture><img align="right" alt="Profile gif" height="250em" src="https://raw.githubusercontent.com/TonyyCruz/TonyyCruz/main/profile_gif.gif"></picture>
-  
 <h2 align="center">Oi, eu sou Anthony Cruz</h2>
 
+<picture><img align="right" alt="Profile gif" height="250em" src="https://raw.githubusercontent.com/TonyyCruz/TonyyCruz/main/my_profile_gif.gif"></picture>
+  
 <p align="left">
-Desenvolvedor web full-stack de São Paulo-SP.<br>
-Atuo na área de desenvolvimento desde 2022 sempre buscando novos desafios e aprendizado. Melhorando a cada dia em busca de códigos mais limpos e organizados.  
-Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opinar.
+Desenvolvedor web full-stack(ênfase em back-end) de São Paulo – SP. <br>
+Atuo na área desde 2022, construindo aplicações web e APIs com ênfase em clareza, performance e boas práticas. Ao longo da minha trajetória, busco constantemente novos desafios que me permitam evoluir tanto tecnicamente quanto em qualidade.
+
+
+
+Acredito que colaboração e troca de conhecimento são fundamentais para crescer na área. Por isso, estou sempre aberto a sugestões, discussões técnicas e críticas construtivas. <br>
+Feedbacks são sempre bem-vindos!
 </p>
   
 

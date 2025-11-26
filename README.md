@@ -3,7 +3,7 @@
 <picture><img align="right" alt="Profile gif" height="250em" src="https://raw.githubusercontent.com/TonyyCruz/TonyyCruz/main/my_profile_gif.gif"></picture>
   
 <p align="left">
-Desenvolvedor web full-stack(ênfase em back-end) de São Paulo – SP. <br>
+Desenvolvedor web full-stack de São Paulo – SP. <br>
 Atuo na área desde 2022, construindo aplicações web e APIs com ênfase em clareza, performance e boas práticas. Ao longo da minha trajetória, busco constantemente novos desafios que me permitam evoluir tanto tecnicamente quanto em qualidade.
 
 
